@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joffrey
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning reactjs and react native
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning from microverse
+- 💞️ <!-- I`m looking for ........ --->
 - 📫 contact me on joyjoffrey@gmail.com
 
 <!---
