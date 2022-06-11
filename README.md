@@ -1,5 +1,5 @@
 
-![profile](https://user-images.githubusercontent.com/68817603/173179230-bf8f4d83-af19-4a21-a4ee-d55c6a99202b.jpg)
+![profile](https://user-images.githubusercontent.com/68817603/173179960-f77cb389-4661-4786-972b-022ea5bff939.JPG)
 
 - 👋 Hi, I’m @Joffrey
 - 👀 I’m interested in web and mobile application development
