@@ -6,6 +6,12 @@
 - 🌱 I’m currently learning from microverse
 - 💞️ I`m looking for collaboration and petnership over the web
 - 📫 contact me on [joyjoffrey@gmail.com](joyjoffrey@gmail.com)
+
+
+![stats](https://github-readme-stats.vercel.app/api?username=joffreynk&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk)](https://github.com/joffreynk/github-readme-stats)
  <!--- I`m looking for ........ --->
 <!---
 JoffreyNK/JoffreyNK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
