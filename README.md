@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m @Joffrey
 - 👀 I’m interested in web and mobile application development
-- 🌱 I’m currently learning from microverse
+- 🌱 I’m currently learning from MICROVERSE
 - 💞️ I`m looking for collaboration and petnership over the web
 - 📫 contact me on [joyjoffrey@gmail.com](joyjoffrey@gmail.com)
 
