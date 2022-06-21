@@ -6,12 +6,17 @@
 - 👀 I'm interested in web and mobile application development
 - 🌱 I'm currently learning from MICROVERSE
 - 💞️ I'm looking for collaboration and partnership over the web
-- Currently I live in Bujumbura - BURUNDI
 - I'm available for remote jobs and jobs relocation
-- 📫 contact me on [joyjoffrey@gmail.com](joyjoffrey@gmail.com)
+### 📫 contact me on 
+- Email: [joyjoffrey@gmail.com](joyjoffrey@gmail.com)
+- Tel: +2577615792
+- Address: Bujumbura, BURUNDI.
+- portfolio: [my portfolio](https://github.com/JoffreyNK/portfolio-desktop)
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=joffreynk&show_icons=true&theme=radical)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk)](https://github.com/joffreynk/github-readme-stats)
+
+
