@@ -9,7 +9,7 @@
 - I'm available for remote jobs and jobs relocation
 ### 📫 contact me on 
 - Email: [joyjoffrey@gmail.com](joyjoffrey@gmail.com)
-- Tel: +2577615792
+- Tel: +25776515792
 - Address: Bujumbura, BURUNDI.
 - portfolio: [my portfolio](https://github.com/JoffreyNK/portfolio-desktop)
 
