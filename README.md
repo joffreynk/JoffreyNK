@@ -18,5 +18,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk)](https://github.com/joffreynk/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joffreynk&show_icons=true&locale=en&layout=compact" alt="JoffreyNK" /></p>
 
 
