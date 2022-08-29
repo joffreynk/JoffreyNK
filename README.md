@@ -18,6 +18,9 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk)](https://github.com/joffreynk/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joffreynk&show_icons=true&locale=en&layout=compact" alt="JoffreyNK" /></p>
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joffreynk&show_icons=true&locale=en&layout=compact" alt="JoffreyNK" /></p> -->
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=JoffreyNK&show_icons=true&locale=en" alt="JoffreyNK" /></p>
 
