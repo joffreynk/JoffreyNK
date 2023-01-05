@@ -3,10 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif"  width="100%" height="320px">
 
-Hi <img src="https://user-images.githubusercontent.com/68817603/210855010-569f7e63-c88b-4048-a55a-3f80070b07d2.gif"  width="23px" height="23px">
- there, my name is Joffrey NKESHIMANA,
-
-I'm Full-Stack Developer with the mission of enhancing technology by turning ideas into real-world applications. JavaScript, Rails, Express, NextJS, Redux, Databases. Improving open-source projects, one commit at a time
+Hi  <img src="https://user-images.githubusercontent.com/68817603/210855010-569f7e63-c88b-4048-a55a-3f80070b07d2.gif"  width="20px" height="20px">  there, my name is Joffrey NKESHIMANA, I'm Full-Stack Developer with the mission of enhancing technology by turning ideas into real-world applications. JavaScript, Rails, Express, NextJS, Redux, Databases. Improving open-source projects, one commit at a time
 
 - 👀 I'm interested in web and mobile application development
 - 🌱 I'm currently learning from MICROVERSE
