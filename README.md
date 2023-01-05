@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif"  width="100%" height="320px">
 
--Hi ![shake-hand](https://user-images.githubusercontent.com/68817603/210852949-fb91aa8f-55eb-46c6-9673-42e5e8d0e086.gif)
+-Hi <img src="https://user-images.githubusercontent.com/68817603/210855010-569f7e63-c88b-4048-a55a-3f80070b07d2.gif"  width="30px" height="30px">
  there, my name is Joffrey NKESHIMANA,
 
 Full-Stack Developer with the mission of enhancing technology by turning ideas into real-world applications. JavaScript, Rails, Express, NextJS, Redux, Databases. Improving open-source projects, one commit at a time
@@ -19,6 +19,9 @@ Full-Stack Developer with the mission of enhancing technology by turning ideas i
 - Tel: +25776515792
 - Address: Bujumbura, BURUNDI.
 - portfolio: [my portfolio](https://joffrey-portfolio.netlify.app/)
+
+![waving-hand-people](https://user-images.githubusercontent.com/68817603/210855010-569f7e63-c88b-4048-a55a-3f80070b07d2.gif)
+
 
 
 
