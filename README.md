@@ -8,7 +8,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 - I'm available for remote and onsite jobs
 ### 📫 contact me on 
 
-- How to reach me: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email me](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
+- Media: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email me](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
 
 
 <!-- ![icons8-phonelink-ring-50](https://user-images.githubusercontent.com/68817603/210879927-7dd750d1-1551-45be-b036-539269a0189e.png) -->
