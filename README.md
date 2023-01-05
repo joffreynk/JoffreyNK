@@ -1,5 +1,7 @@
 
-![profile](https://user-images.githubusercontent.com/68817603/173179960-f77cb389-4661-4786-972b-022ea5bff939.JPG)
+![profile](https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media)
+
+
 
 - 👋 Hi, my name is Joffrey NKESHIMANA,
  Full-Stack Software Developer with a love for React, Express, MongoDB & MYSQL
