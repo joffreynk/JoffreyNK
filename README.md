@@ -1,7 +1,7 @@
-![animating](https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif)
+<!-- ![animating](https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif) -->
 
 
-<img src="https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif"  width="100%" height="30%">
+<img src="https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif"  width="100%" height="400px">
 
 - 👋 Hi, my name is Joffrey NKESHIMANA,
  Full-Stack Software Developer with a love for React, Express, MongoDB & MYSQL
