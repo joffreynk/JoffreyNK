@@ -1,7 +1,7 @@
 ![animating](https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif)
 
 
-![coding](https://user-images.githubusercontent.com/68817603/210845033-9f0e9749-38e3-4cdc-a340-70654dac839b.gif)
+<img src="https://dribbble.com/shots/6139167-Avento-marketing/attachments/11278854?mode=media"  width="100%" height="30%">
 
 - 👋 Hi, my name is Joffrey NKESHIMANA,
  Full-Stack Software Developer with a love for React, Express, MongoDB & MYSQL
