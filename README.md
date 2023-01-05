@@ -7,7 +7,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 - 💞️ I'm looking for collaboration and partnership over the web
 - I'm available for remote and onsite jobs
 ### 📫 contact me on 
-- 📫 How to reach me: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email:](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
+- 📫 How to reach me: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email me](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
 - Tel: +25776515792
 - Address: Bujumbura, BURUNDI.
 
