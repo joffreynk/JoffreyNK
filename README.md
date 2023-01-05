@@ -7,8 +7,12 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 - 💞️ I'm looking for collaboration and partnership over the web
 - I'm available for remote and onsite jobs
 ### 📫 contact me on 
+
 - 📫 How to reach me: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email me](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
-- 📲 and 
+
+
+<!-- ![icons8-phonelink-ring-50](https://user-images.githubusercontent.com/68817603/210879927-7dd750d1-1551-45be-b036-539269a0189e.png) -->
+-  <img src="https://user-images.githubusercontent.com/68817603/210879927-7dd750d1-1551-45be-b036-539269a0189e.png"  width="18px" height="18px"> and 
 ![icons8-whatsapp-16](https://user-images.githubusercontent.com/68817603/210879317-d008157a-7b88-4e1c-ad20-c90f8e6ad763.png)  +25776515792
 - Address: Bujumbura, BURUNDI.
 
