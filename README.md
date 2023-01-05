@@ -8,7 +8,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 - I'm available for remote and onsite jobs
 ### 📫 contact me on 
 - 📫 How to reach me: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email me](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
-- ![icons8-phonelink-ring-50](https://user-images.githubusercontent.com/68817603/210879291-c01ae640-5452-47ee-a104-66f86deca305.png) and 
+- 📲 and 
 ![icons8-whatsapp-16](https://user-images.githubusercontent.com/68817603/210879317-d008157a-7b88-4e1c-ad20-c90f8e6ad763.png)  +25776515792
 - Address: Bujumbura, BURUNDI.
 
