@@ -22,7 +22,7 @@ Full-Stack Developer with the mission of enhancing technology by turning ideas i
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk&langs_count=8)](https://github.com/joffreynk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk&langs_count=8&layout=compact)](https://github.com/joffreynk/github-readme-stats)
 
 
 
