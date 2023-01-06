@@ -10,6 +10,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 
 ### 📫 contact me:
 
+<a href="https://joffreynk.github.io/portfolio-desktop/">![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=Portfolio&logoColor=%2361DAF)</a>
 <a href="https://www.linkedin.com/in/Joffreynk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/Joffreynk">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:joyjoffrey@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
@@ -29,6 +30,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Nextjs](https://img.shields.io/badge/next-%2320232a.svg?style=for-the-badge&logo=next&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
