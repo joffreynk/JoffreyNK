@@ -12,6 +12,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 
 #### Find me online at
 
+![Twitter Follow](https://img.shields.io/portfolio?style=for-the-badge)
 
 <a href="https://joffrey-portfolio.netlify.app/">![PortFolio](https://img.shields.io/endpoint?label=Portfolio&logo=PortFolio&url=https%3A%2F%2Fjoffrey-portfolio.netlify.app)</a>
 <a href="https://www.linkedin.com/in/Joffreynk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
