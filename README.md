@@ -16,6 +16,6 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 ![icons8-whatsapp-16](https://user-images.githubusercontent.com/68817603/210879317-d008157a-7b88-4e1c-ad20-c90f8e6ad763.png):  +25776515792
 - Address: Bujumbura, BURUNDI.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk&langs_count=8&layout=compact)](https://github.com/joffreynk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joffreynk&langs_count=12&layout=compact)](https://github.com/joffreynk/github-readme-stats)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=joffreynk&show_icons=true&theme=radical)
