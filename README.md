@@ -12,7 +12,8 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 
 #### Find me online at
 
-<a href="https://joffrey-portfolio.netlify.app/">![PortFolio](https://user-images.githubusercontent.com/68817603/210954593-a3f44fed-d199-4945-85fe-b2f405681d3d.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a>
+
+<a href="https://joffrey-portfolio.netlify.app/">![PortFolio](https://img.shields.io/endpoint?label=Portfolio&logo=PortFolio&url=https%3A%2F%2Fjoffrey-portfolio.netlify.app)</a>
 <a href="https://www.linkedin.com/in/Joffreynk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/Joffreynk">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:joyjoffrey@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
