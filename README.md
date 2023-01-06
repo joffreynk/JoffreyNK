@@ -5,16 +5,11 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 
 - 👀 I'm interested in web and mobile application development
 - 💞️ I'm looking for collaboration and partnership over the web
-- I'm available for remote and onsite jobs
-### 📫 contact me on 
+- I'm available for remote and onsite job
 
-- Media: [Twitter](https://twitter.com/Joffreynk), [Linkedin](https://www.linkedin.com/in/Joffreynk/), [Email me](mailto:joyjoffrey@gmail.com), [my portfolio](https://joffrey-portfolio.netlify.app/)
 
-#### Find me online at
+### 📫 contact me:
 
-![Twitter Follow](https://img.shields.io/portfolio?style=for-the-badge)
-
-<a href="https://joffrey-portfolio.netlify.app/">![PortFolio](https://img.shields.io/endpoint?label=Portfolio&logo=PortFolio&url=https%3A%2F%2Fjoffrey-portfolio.netlify.app)</a>
 <a href="https://www.linkedin.com/in/Joffreynk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/Joffreynk">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:joyjoffrey@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
