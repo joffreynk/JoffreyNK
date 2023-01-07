@@ -1,7 +1,7 @@
 
 <img src="https://user-images.githubusercontent.com/68817603/210844142-d7c0f35a-72f9-45db-a6fa-cce3099cde29.gif"  width="100%" height="320px">
 
-Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010-569f7e63-c88b-4048-a55a-3f80070b07d2.gif"  width="20px" height="20px"> , My name is Joffrey NKESHIMANA. With bachelor's degree in computer science. I'm a Ruby on Rails and NextJS full-stack developer with the mission of enhancing technology by turning ideas into real-world applications. JavaScript, Ruby on Rails, ExpressJS, NextJS, Redux, Sanity.io, SQL, and MongoDB are my favorite technologies. Improving open-source projects, Remote working, Team-working and one commitment at a time are my priorities
+Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010-569f7e63-c88b-4048-a55a-3f80070b07d2.gif"  width="20px" height="20px"> , My name is Joffrey NKESHIMANA. With a bachelor's degree in computer science. I'm a Ruby on Rails and NextJS full-stack developer with the mission of enhancing technology by turning ideas into real-world applications. My favorite technologies are JavaScript, Ruby on Rails, ExpressJS, NextJS, Redux, Sanity.io, SQL, and MongoDB. Improving open-source projects, Remote working, Team-working are my preferences
 
 - 👀 I'm interested in web and mobile application development
 - 💞️ I'm looking for collaboration and partnership over the web
