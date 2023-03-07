@@ -10,7 +10,7 @@ Hi  there <img src="https://user-images.githubusercontent.com/68817603/210855010
 
 ### 📫 contact me:
 
-<a href="https://joffreynk.github.io/portfolio-desktop/">![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=Portfolio&logoColor=%2361DAF)</a>
+<a href="https://joffrey-portfolio.netlify.app/">![Portfolio](https://img.shields.io/badge/portfolio-%2320232a.svg?style=for-the-badge&logo=Portfolio&logoColor=%2361DAF)</a>
 <a href="https://www.linkedin.com/in/Joffreynk/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/Joffreynk">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="mailto:joyjoffrey@gmail.com.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
